@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  9 NOV 2022 00:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  10 NOV 2022 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,17 +308,13 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(C:\Users\ACER\AppData\Local\Programs\MiKTeX\tex/latex/babel-serbian\serbian.ld
-f
-Language: serbian 2022/09/30 2.2a Serbian Latin support for the Babel system
-Package babel Info: Making " an active character on input line 46.
-\srbl@lettering=\count195
+(C:\Users\ACER\AppData\Local\Programs\MiKTeX\tex/latex/babel-serbianc\serbianc.
+ldf
+Language: serbianc 2022/09/30 3.2a Serbian Cyrillic support for the Babel syste
+m
+Package babel Info: Making " an active character on input line 92.
+\srbc@lettering=\count195
 ))
-(C:\Users\ACER\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sr\babel-
-serbian.tex
-Package babel Info: Importing font and identification data for serbian
-(babel)             from babel-sr.ini. Reported on input line 11.
-)
 (C:\Users\ACER\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-
 english.tex
 Package babel Info: Importing font and identification data for english
@@ -533,151 +529,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
 
-Overfull \hbox (1.9691pt too wide) in paragraph at lines 18--21
-[]\T2A/cmr/m/n/9 Огроман развоj технологиjе jе узроковао и развоj саjбер кримин
-ала.
- []
+(39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.toc)
+\tf@toc=\write4
+\openout4 = `39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.toc'.
 
-[1
+ [1
 
 {C:/Users/ACER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (7.61215pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 милиона напада у току овог дана. Али свест о опасности саjбер кр
-имина-
+Overfull \hbox (6.50468pt too wide) in paragraph at lines 35--36
+[]\T2A/cmr/m/n/9 креира»е про-це-ду-ра за по-сту-па-»е у слу-ча-jе-ви-ма на-па-
+да на инфор-
  []
 
 
-Overfull \hbox (5.05519pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 ла ниjе дово§но проширена и то представ§а jедан од главних пробл
-ема.
+Overfull \hbox (5.61244pt too wide) in paragraph at lines 36--37
+[]\T2A/cmr/m/n/9 коришЈе»е ком-плек-сних ло-зин-ки ко-jе са-др-же ве-ли-ки броj
+ измеша-
  []
 
-
-Overfull \hbox (7.36568pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 Наравно, ниjедан систем ниjе 100 % сигуран jер сваки има своjе с
-лабости
- []
-
-
-Overfull \hbox (2.48283pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 у виду ра»ивости у безбедоносним подешава»има на систему и злоуп
-о-
- []
-
-
-Overfull \hbox (21.11722pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 системима фокусира-jу на превенциjи, али не и на детектова»у зло
-намерних
- []
-
-
-Overfull \hbox (3.77278pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 два проблема. Први jе таj да организациjа не може да спречи комп
-летан
- []
-
-
-Overfull \hbox (1.7053pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 саобраЈаj, што на неки начин отвара могуЈност за потенциjални на
-пад.
- []
-
-
-Overfull \hbox (9.15938pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 измеўу безбедности и функционалности и проточности. И други проб
-лем
- []
-
-
-Overfull \hbox (12.2304pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 или исправно конфигурисани па самим тим пружаjу минималну заштит
-у.
- []
-
-
-Overfull \hbox (7.617pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 раде на основу базе у коjоj имаjу информациjе о малициозним прог
-рами-
- []
-
-
-Overfull \hbox (13.01146pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 ма, али чим уўе у систем неки сасвим нов малициозни програм, ант
-ивирус
- []
-
-
-Overfull \hbox (23.43262pt too wide) in paragraph at lines 24--30
-\T2A/cmr/m/n/9 га неЈе детектовати. Заштита се постиже непрекидним циклусом отк
-рива»а
- []
-
-
-Overfull \hbox (7.14684pt too wide) in paragraph at lines 31--32
-[]\T2A/cmr/m/n/9 редовно ажурира»е оперативног система и антивирусног софтвера 
-
- []
-
-
-Overfull \hbox (6.24425pt too wide) in paragraph at lines 32--33
-[]\T2A/cmr/m/n/9 опрезност и одговорност запослених или нас поjединаца(на приме
-р
- []
-
-
-Overfull \hbox (5.85545pt too wide) in paragraph at lines 32--33
-\T2A/cmr/m/n/9 не отварати садржину меjла ако долази од непознатог поши§аоца) 
- []
-
-
-Overfull \hbox (38.36148pt too wide) in paragraph at lines 35--36
-[]\T2A/cmr/m/n/9 креира»е процедура за поступа»е у случаjевима напада на информ
-ационе
- []
-
-
-Overfull \hbox (17.68588pt too wide) in paragraph at lines 36--37
-[]\T2A/cmr/m/n/9 коришЈе»е комплексних лозинки коjе садрже велики броj измешани
-х
- []
-
-[2]
-Overfull \hbox (6.46382pt too wide) in paragraph at lines 41--42
-\T2A/cmr/m/n/9 Важно jе истаЈи да не постоjи начин да се рачунарски системи пра
-вилно
- []
-
-
-Overfull \hbox (14.58331pt too wide) in paragraph at lines 44--45
-\T2A/cmr/m/n/9 нашим свакодневним животима. \T2A/cmr/m/it/9 Ran-so-mwa-re \T2A/
-cmr/m/n/9 jе jедан од наjзаступ§ениjих
- []
-
-[3] (39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.aux)
+[2] [3] (39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.aux)
 Package rerunfilecheck Info: File `39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.o
 ut' has not changed.
 (rerunfilecheck)             Checksum: E5A1845AE78C7B3F42C0C7D97B6357FE;246.
  ) 
 Here is how much of TeX's memory you used:
- 10460 strings out of 475385
- 168408 string characters out of 2777378
- 516894 words of memory out of 3000000
- 31698 multiletter control sequences out of 15000+600000
- 478519 words of font info for 45 fonts, out of 8000000 for 9000
+ 10459 strings out of 475385
+ 168247 string characters out of 2777378
+ 518610 words of memory out of 3000000
+ 31696 multiletter control sequences out of 15000+600000
+ 478818 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,2559b,542s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,2571b,543s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati090
-0.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
-1440.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-arm1000.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
+1000.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+abx1440.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\labx0900.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
 i600\larm1200.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\larm0900.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\larm1728.pk>
-Output written on 39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.pdf (3 pages, 6909
-0 bytes).
+Output written on 39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.pdf (3 pages, 7575
+5 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
