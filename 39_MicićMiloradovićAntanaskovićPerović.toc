@@ -1,3 +1,7 @@
 \babel@toc {serbianc}{}\relax 
-\contentsline {section}{\numberline {1}Мере заштите}{2}{section.1}%
-\contentsline {section}{\numberline {2}Закључак}{3}{section.2}%
+\contentsline {section}{\numberline {1}О сајбер криминалу и дигиталној форензици}{2}{section.1}%
+\contentsline {section}{\numberline {2}Типови високотехнолошког криминала}{3}{section.2}%
+\contentsline {section}{\numberline {3}Примери из праксе}{4}{section.3}%
+\contentsline {section}{\numberline {4}Мере заштите}{5}{section.4}%
+\contentsline {section}{\numberline {5}Закључак}{6}{section.5}%
+\contentsline {section}{Literatura}{7}{section.5}%
