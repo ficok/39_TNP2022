@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  7 DEC 2022 14:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  7 DEC 2022 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,40 +543,34 @@ Package pdftex.def Info: ./slike//koriscenje-interneta-po-godinama.png  used on
  input line 36.
 (pdftex.def)             Requested size: 276.00105pt x 194.81917pt.
  [2 <./slike//koriscenje-interneta-po-godinama.png>]
-Overfull \hbox (2.48145pt too wide) in paragraph at lines 63--67
-[]\T2A/cmr/m/n/9 Када се спо-ме-ну ти-по-ви саj-бер кри-ми-на-ла (ви-со-ко-тех-
-но-ло-шког кри-
- []
-
-
-Overfull \hbox (4.19264pt too wide) in paragraph at lines 74--75
+Overfull \hbox (4.19264pt too wide) in paragraph at lines 73--74
 []\T2A/cmr/m/n/9 неовлашЈен при-ступ (упад) ра-чу-нар-ском си-сте-му или мре-жи
  (оне-
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--99
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 103.
+(Font)              <7> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 103.
+(Font)              <5> on input line 105.
  [5]
-Overfull \hbox (6.50468pt too wide) in paragraph at lines 128--129
+Overfull \hbox (6.50468pt too wide) in paragraph at lines 130--131
 []\T2A/cmr/m/n/9 креира»е про-це-ду-ра за по-сту-па-»е у слу-ча-jе-ви-ма на-па-
 да на инфор-
  []
 
 
-Overfull \hbox (5.61244pt too wide) in paragraph at lines 129--130
+Overfull \hbox (5.61244pt too wide) in paragraph at lines 131--132
 []\T2A/cmr/m/n/9 коришЈе»е ком-плек-сних ло-зин-ки ко-jе са-др-же ве-ли-ки броj
  измеша-
  []
@@ -586,16 +580,6 @@ Overfull \hbox (5.61244pt too wide) in paragraph at lines 129--130
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-[]\T2A/cmr/m/n/9 Табела ште-те на-не-се-не саj-бер кри-ми-на-лом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-\T2A/cmr/m/n/9 https://www.statista.com/statistics/799875/countries-with-the-
- []
-
-
 Underfull \hbox (badness 1454) in paragraph at lines 156--157
 []\T2A/cmr/m/n/9 Саjт ко-jи при-ка-зу-jе броj саj-бер на-па-да у то-ку jед-ног 
 да-на
@@ -619,8 +603,8 @@ ut' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10529 strings out of 475385
- 169517 string characters out of 2777378
- 521263 words of memory out of 3000000
+ 169509 string characters out of 2777378
+ 521330 words of memory out of 3000000
  31726 multiletter control sequences out of 15000+600000
  478818 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -633,10 +617,10 @@ abx1440.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 i600\larm1200.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\larm0900.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\larm1728.pk>
-Output written on 39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.pdf (8 pages, 5263
-13 bytes).
+Output written on 39_MiciД‡MiloradoviД‡AntanaskoviД‡PeroviД‡.pdf (8 pages, 5271
+64 bytes).
 PDF statistics:
- 502 PDF objects out of 1000 (max. 8388607)
+ 505 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
