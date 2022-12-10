@@ -1,6 +1,7 @@
 \documentclass{beamer}
 \usepackage{beamerthemeshadow}
 \usepackage{graphicx}
+\graphicspath{{./slike/}}
 \usepackage{color}
 \usepackage[utf8]{inputenc}
 \usepackage[T2A]{fontenc}
@@ -9,17 +10,63 @@
 \definecolor{beamer@darkred}{rgb}{0.1,0.85,0.4}
 \setbeamercolor{structure}{fg=beamer@darkred}
 
-
-
-
-
+\title{Сајбер криминал и мере заштите}
+\subtitle{Семинарски рад у оквиру курса Техничко и научно писање}
+\author{Богдан Мицић, \\Никола Милорадовић, \\Исидора Перовић, \\Филип Антанасковић}
+\institute{Математички факултет\\Универзитет у Београду}
+\date{
+  \footnotesize{10.12.2022.}
+}
 %литература и насловна страна иду изнад
 %када пишете имаћемо два section-a: Filipov i moj deo, dok Isidora i Nikola kada budu pisali svoj treba da koriste \subsection, razlog jer po pravilu u pregledu ne bi trebali da imamo vise od 3 glavne teme tj. sectiona
 \begin{document}
-	
+
+\begin{frame}
+  \thispagestyle{empty}
+  \titlepage{}
+\end{frame}
+\addtocounter{framenumber}{-1}
+
+\begin{frame}[fragile]\frametitle{Литература}
+  \begin{itemize}
+    \item В. Кораћ, Д. Прља, А. Дилигенски, \emph{Дигитална форензика}, Београд 2016.
+    \item Сајбер тероризам као окидач све интензивније потребе за безбедност система од опасности које долазе са интернета, Сандра Клисарић, 2021.
+    \item Eric Cole, \emph{How to secure your company}, Computerworld, 2016.
+    \item Ханипот и где се користи, \url{https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot}
+    \item Вештачка интелигенција у сигурносним системима, \url{https://vectra.ai/learning/ai-security2}
+  \end{itemize}
+\end{frame}
+
 \begin{frame}
 	\frametitle{Преглед}
 	\tableofcontents
+\end{frame}
+
+\section{Увод: о сајбер тероризму}
+
+\begin{frame}
+  \begin{itemize}
+    \item Мотиви за сајбер криминал:
+    \begin{itemize}
+      \item крађа и продаја података,
+      \item шпијунажа,
+      \item бесплатно коришћење програма и мултимедијалних садржаја
+    \end{itemize}
+    \item Стање сајбер криминала:
+    \begin{itemize}
+      \item већина великих организација је претрпела сајбер нападе
+      \item IDS (Intrustion Dectection System) системи нису решили проблеме
+      \item велики број умрежених рачунара за дистрибуцију пиратерије
+      \item сајбер криминал је статистички најдоминантнији тип криминала
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{Пораст коришћења интернета у свету током година}
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=1.0\textwidth]{koriscenje-interneta-po-godinama.png}
+  \end{figure}
 \end{frame}
 
 %сви остали делови иду изнад мог

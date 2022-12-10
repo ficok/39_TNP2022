@@ -1,2 +1,3 @@
-\beamer@sectionintoc {1}{Мере заштите}{2}{0}{1}
-\beamer@sectionintoc {2}{Закључак}{3}{0}{2}
+\beamer@sectionintoc {1}{Увод: о сајбер тероризму}{4}{0}{1}
+\beamer@sectionintoc {2}{Мере заштите}{6}{0}{2}
+\beamer@sectionintoc {3}{Закључак}{7}{0}{3}
