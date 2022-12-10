@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  9 DEC 2022 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.30)  10 DEC 2022 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1204,6 +1204,8 @@ AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 (39_prezentacija_MicićMiloradovićAntanaskovićPerović.vrb) [2
 
+] [3
+
 ]
 \tf@nav=\write6
 \openout6 = `39_prezentacija_MicićMiloradovićAntanaskovićPerović.nav'.
@@ -1218,13 +1220,13 @@ AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 (39_prezentacija_MicićMiloradovićAntanaskovićPerović.aux)
 Package rerunfilecheck Info: File `39_prezentacija_MicićMiloradovićAntanaskov
 ićPerović.out' has not changed.
-(rerunfilecheck)             Checksum: 1F8AF78F0AA19E4E017C4249BE23C49B;139.
+(rerunfilecheck)             Checksum: E7090EA97B10D0C8E09024AFA07DB862;246.
  ) 
 Here is how much of TeX's memory you used:
- 22788 strings out of 475385
- 453337 string characters out of 2777378
- 739092 words of memory out of 3000000
- 43680 multiletter control sequences out of 15000+600000
+ 22797 strings out of 475385
+ 453416 string characters out of 2777378
+ 740092 words of memory out of 3000000
+ 43686 multiletter control sequences out of 15000+600000
  476436 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,122p,491b,610s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1235,9 +1237,9 @@ asx0800.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\lass1440.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
 i600\lasx0600.pk>
 Output written on 39_prezentacija_MicićMiloradovićAntanaskovićPerović.pdf (
-2 pages, 41954 bytes).
+3 pages, 57766 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
