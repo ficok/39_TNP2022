@@ -1,3 +1,5 @@
-\beamer@sectionintoc {1}{Увод: о сајбер криминалу}{4}{0}{1}
-\beamer@sectionintoc {2}{Мере заштите}{6}{0}{2}
-\beamer@sectionintoc {3}{Закључак}{7}{0}{3}
+\beamer@sectionintoc {1}{Сајбер криминал}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Типови сајбер криминала}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Примена у пракси}{7}{0}{1}
+\beamer@sectionintoc {2}{Мере заштите}{8}{0}{2}
+\beamer@sectionintoc {3}{Закључак}{9}{0}{3}
